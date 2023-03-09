@@ -1,2 +1,2 @@
 # ML-from-scratch
-Some machine learning algorithms from scratch in python
+Some machine learning algorithms I made from scratch in python
